@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class Whiteboxtesting {
+class WhiteBoxTesting {
     @Test
     void testcase1() {
         Person p = new Person(-7, "NORMAL");
